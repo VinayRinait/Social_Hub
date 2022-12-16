@@ -1,9 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "intagram": [
+  
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "userdata": [
+    { "id": 1, "name": "Vinay Rinait ", "avatar": "https://avatars.githubusercontent.com/u/108014776?s=400&u=979d474245e8ae4a151e5efa5864df843cc844c3&v=4" },
+    { "id": 2, "name": "Suneet Panigrahi ", "avatar": "https://ca.slack-edge.com/T049JC010P9-U04B0DD1S04-7786c0c5f456-72" },
+    { "id": 3, "name": "Hari singh Bisht ", "avatar": "https://ca.slack-edge.com/T049JC010P9-U04BME9RC7J-a1f62cba3012-72" },
+    { "id": 4, "name": "Priyanshu Kumar ", "avatar": "https://ca.slack-edge.com/T049JC010P9-U04AXSANKJN-39cf4adb0935-72" },
+    { "id": 5, "name": "Vivek kumar Maurya ", "avatar": "https://ca.slack-edge.com/T049JC010P9-U04AEEP1ZDM-74d6d5fcb1f8-72" }
+
+
   ],
-  "profile": { "name": "typicode" }
+  "channels": [
+    { "id": 1, "name": "Instagram", "logo": "https://img.freepik.com/free-psd/3d-square-with-instagram-logo_125540-1566.jpg?w=740&t=st=1671177906~exp=1671178506~hmac=bf2da366c30bd3b94d3b227a3fe593d8f1c16588fc47ea350ef2c1c0b651deb9" },
+    { "id": 2, "name": "Facebook", "logo": "https://t4.ftcdn.net/jpg/03/92/71/99/360_F_392719944_L0LYv3e7QozB2tsj3CfUN0HPC8eZQOWb.webp" },
+    { "id": 3, "name": "Blogger", "logo": "https://img.freepik.com/free-vector/blogging-fun-content-creation-online-streaming-video-blog-young-girl-making-selfie-social-network-sharing-feedback-self-promotion-strategy-vector-isolated-concept-metaphor-illustration_335657-855.jpg?size=338&ext=jpg&ga=GA1.2.1657642624.1671164586&semt=sph" },
+    { "id": 4, "name": "Tiktok", "logo": "https://img.freepik.com/free-vector/tiktok-banner-with-watercolor-splatter_69286-194.jpg?size=338&ext=jpg&ga=GA1.2.1657642624.1671164586&semt=sph" }
+  ]
 }
