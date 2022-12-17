@@ -12,9 +12,9 @@
 
   ],
   "channels": [
-    { "id": 1, "name": "Instagram", "logo": "https://img.freepik.com/free-psd/3d-square-with-instagram-logo_125540-1566.jpg?w=740&t=st=1671177906~exp=1671178506~hmac=bf2da366c30bd3b94d3b227a3fe593d8f1c16588fc47ea350ef2c1c0b651deb9" },
-    { "id": 2, "name": "Facebook", "logo": "https://t4.ftcdn.net/jpg/03/92/71/99/360_F_392719944_L0LYv3e7QozB2tsj3CfUN0HPC8eZQOWb.webp" },
-    { "id": 3, "name": "Blogger", "logo": "https://img.freepik.com/free-vector/blogging-fun-content-creation-online-streaming-video-blog-young-girl-making-selfie-social-network-sharing-feedback-self-promotion-strategy-vector-isolated-concept-metaphor-illustration_335657-855.jpg?size=338&ext=jpg&ga=GA1.2.1657642624.1671164586&semt=sph" },
-    { "id": 4, "name": "Tiktok", "logo": "https://img.freepik.com/free-vector/tiktok-banner-with-watercolor-splatter_69286-194.jpg?size=338&ext=jpg&ga=GA1.2.1657642624.1671164586&semt=sph" }
+    { "id": 1, "name": "Instagram", "logo": "https://cdn.pixabay.com/photo/2016/05/04/21/51/instagram-1372870__340.jpg" },
+    { "id": 2, "name": "Facebook", "logo": "https://cdn.pixabay.com/photo/2015/07/13/07/41/icons-842893__340.png" },
+    { "id": 3, "name": "Blogger", "logo": "https://cdn.pixabay.com/photo/2016/11/09/08/33/wordpress-1810479__340.jpg" },
+    { "id": 4, "name": "Tiktok", "logo": "https://cdn.pixabay.com/photo/2022/02/09/08/24/tiktok-7002866__340.png" }
   ]
 }
